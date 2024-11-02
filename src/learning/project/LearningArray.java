@@ -34,6 +34,7 @@ public class LearningArray {
         System.out.println(
                 Arrays.toString(color)
         );
+        System.out.println(color.length);
         System.out.println(Array.getLength(color));
 
     }
